@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Kulim+Park&display=swap');
+
+body{
+  font-family: 'Kulim Park', sans-serif;
+  font-size: 24px;
+}
+
+#intro {
+  opacity: 0;
+}
+
+#navbar-name {
+  color:rgb(31, 75, 145);
+  font-size: 24px;
+}
+
+.navbar {
+  background-color: rgb(240,240,240,0.93);
+}
+
+.gray {
+  background-color: rgb(250,250,250);
+}
+
+.new-section{
+  padding-top: 100px;
+  padding-bottom: 150px;
+}
+
+.jumbotron{
+  background: url("https://i.imgur.com/Ze5j40Y.jpg") no-repeat right fixed;
+  position: relative;
+  background-size: cover;
+  border-radius: 0%;
+  height: 100vh;
+}
+
+.jumbotron > .overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 1;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.jumbotron > .inner {
+  font-family: "Carter One", sans-serif;
+  z-index: 2;
+}
+
+@media screen and (min-width: 1916px) {
+  .jumbotron {
+      background: url("https://i.imgur.com/Ze5j40Y.jpg") no-repeat right fixed;
+      position: relative;
+      background-size: cover;
+      border-radius: 0%;
+      height: 100vh;
+  }
+}
+
+@media screen and (min-width: 1600px) and (max-width: 1915px) {
+  .jumbotron {
+      background: url("https://i.imgur.com/Zha3q2G.jpg") no-repeat right fixed;
+      position: relative;
+      background-size: cover;
+      border-radius: 0%;
+      height: 100vh;
+  }
+}
+
+@media screen and (max-width: 1599px) {
+  .jumbotron {
+      background: url("https://i.imgur.com/QnrAyqZ.jpg") no-repeat right fixed;
+      position: relative;
+      background-size: cover;
+      border-radius: 0%;
+      height: 100vh;
+  }
+}
+
+.vertical-center {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(240,240,240);
+}
+
+#transparent-white {
+  color: rgb(255, 255, 255, 0.83);
+  font-size: 100px;
+}
+
+#line {
+  border-bottom: 2px solid white;
+}
+
+#overlay-desc {
+  color: rgb(240, 240, 240, 0.9);
+  padding-top: 10px;
+  font-size: 35px;
+  text-align: center;
+}
+
+.navbar-nav > li{
+  padding-right:30px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.title {
+  color: rgb(31, 75, 145);
+  font-weight: bold;
+
+}
+
+.role {
+  text-decoration: underline;
+}
+
+.subsection {
+  font-weight: bold;
+}
+
+.beige {
+  background-color: bisque;
+}
+
+.divider {
+  position: relative;
+  border-bottom: 1px solid rgb(31, 75, 145);
+  box-sizing: border-box;
+  transform: translateY(0.5px);
+  z-index: 3;
+}
+
+.col-sm {
+  padding-top: 8px;
+}
+
+.mail {
+  text-align: center;
+}

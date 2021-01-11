@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "gold-rope-301305",
+  "private_key_id": "872a7baadfbc13063a01477afa6c8f65ceae1202",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXIEy8atYMnWL1\nspTnRfxwJa7zNj2H7N9H58oaYGX9pKX7pxBGng3/dnx923OeblX1g6h310p3MrSI\na7zqI+qh63es871Mx6kbACiCWdu7WZtlLTQHcSmSBrSRAuPpLiqtKCR1z5d1UNEY\n65XHx0CnXBv1EAbzy0Ojnqw6XISxJatGqSAG1OZj90h+3k4FypK9/AOD8P9dmjyO\n//OGHPU83SMDJXFMgo6FasJg8X1G/1fXZHa+GTCcRnh70eNdC3Hyix+XgEdW3Q2u\ncnSQaKO1za8/q6nXlxZLTsyNyMRpDpQz8Lsh6+/EafejhUnMkxYinjYPZzFGlOva\nhuD8forNAgMBAAECggEAERXifwnADdiMS9VG/tebeM1V2GLJNZEK1D0JDQ7ZcQHY\njxkd3rH3SKqrW+o/yclVGAbsuLHDFjNKFEND7h+l4uz1UH0U6XWIMYiEy+nfTPDO\nP/PKlk3Nopf1+Y//Vsk0o3NundAcojODFENsIVQuQ82Gzp+jfZP9H2YsuANmMAWy\n8qsWRaa5KDkw6BY3XNESiv648n5r17gXz4noL/Tm1isfNFJO5HKj7enQ1C1mO1cn\n2IH+mLuZ93m/4rzUbdnSBPOgRdPP5F4O+vdJ4GunXJrA4VoA6s6D2GlZnx1iB9WC\n0kWdUvIOR7lQ0yDpr71d6jwkKKmYshRkwMVelyRm6QKBgQDM4SeVBC5XiK6LAdZ1\ntJsye7gZNbx0DKDkoGMFfNtkTxAyWUrbGmd9SyPAb9mrhFynFxeTc8btD14l3eFZ\n8lE50jgRhxSEJ0WzSFS4FyskXQIdduVQGnRZIK+YejbUE3XhRnROAouN+jyP16nr\nU8YAYbb7MbdC0yU1y3+kvs/hiQKBgQC81Zta3zxPeU9r4IRlWtX2OhWv/hXIJdjx\nHqzVO6M7mg7Z7j1CFILmBO4f1m3CsAZbLdEI5ERVL64rOpIpmYBb19AzdYG8+kwh\nnxc8w64gEjGtk8bnGFzFeohUScf0dKyNTwbhClsqYrOD2p6S1oCvvKszVy2tdCIJ\naIVTqpjiJQKBgGiEYCX0CRQcpTZCzL4lUZsSZFtv/2CQZK/dZkaRaHamotOcm8Rk\nlvDjGSz9omSOVJnk/OD7Cjs7QMM+iszRAkDmDjZa28uDIVqRhq6XGyokzIRteBRC\nOqKROyMlDb1o5BT1VTXKtJjMVILo+UUU6oidULSaqyvK/UuRMd/Ae9pJAoGBAJjI\nd18J2YEv1Kuix1w+J3mGO3/eo38B6EoGmK4aB5M0ral0EcpCUDqNaKEH3Fy2ER56\nrnN0RTlrT48YX6Qa13j33zOTcnoVRb26O5HlfR/juKAJPdhCpOT+pAkWfRrzv5zB\ngP5ZY7Oikj4vhzelKA+IJjhu471Ahj14fM9Z60KlAoGAO5u6dCM2zkPVZe4yPoaI\ntTqgR6s8vQClFB+SWfhO09X7eH0BS6cdKaaNd9pBrhaOlDG5rXg6STihklybNYzS\nztfTjtOGJ/FK0YyEQuc9s+ec8pVKiaLQknNbG/n/Ai80ZzCLhTMKgvoQhOlvw87q\nFAuGDKC5N1219yv8onJXnj4=\n-----END PRIVATE KEY-----\n",
+  "client_email": "googspeechtext@gold-rope-301305.iam.gserviceaccount.com",
+  "client_id": "117264823523384582739",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/googspeechtext%40gold-rope-301305.iam.gserviceaccount.com"
+}
